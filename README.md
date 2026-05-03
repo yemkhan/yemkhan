@@ -1,7 +1,6 @@
 # Hey, i'm Muzammil Khan
 
 Motion Designer & Vibe Architect
+Creative Suite · Frontend Dev · Vibe Coder · Tech Nomad
 
-![GitHub stars](https://img.shields.io/github/stars/yemkhan?style=social) 
-
-[website](https://yemkhan.github.io) · [twitter](https://x.com/yemkhan) · [email](mailto:hello@muzammilkhan.dev)
+[web](https://yemkhan.github.io) · [X](https://x.com/yemkhan) · [mail](mailto:2mail2mkhan@gmail.com) 
