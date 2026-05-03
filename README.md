@@ -1,7 +1,7 @@
-# hey, i'm muzammil
+# Hey, i'm Muzammil Khan
 
-motion designer & creative developer
+Motion Designer & Vibe Architect
 
-into animated interfaces, vibe design, and canvas stuff.
+![GitHub stars](https://img.shields.io/github/stars/yemkhan?style=social) 
 
-[portfolio](https://yemkhan.github.io) · [twitter](https://twitter.com/yemkhan) · [email](mailto:hello@muzammilkhan.dev)
+[website](https://yemkhan.github.io) · [twitter](https://x.com/yemkhan) · [email](mailto:hello@muzammilkhan.dev)
